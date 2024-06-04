@@ -14,9 +14,10 @@ Required: Composer
 Set up an environment as per above mentioned prerequisites. Create a folder as cochrane_rupali and let the code reside inside this folder
 
 
-###Run the command below and you are all set to run your project using the command line.
+##Run the command below and you are all set to run your project using the command line.
 composer update
-###Run the project:
+
+##Run the project:
 Run the command: 
 php review.php 
 and you will be prompted to choose a topic.
