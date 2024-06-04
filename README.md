@@ -19,7 +19,7 @@ Set up an environment as per above mentioned prerequisites.
 
 ## Run the project
 Run the command: 
-**php review.php** 
+**php artisan collect:metadata** 
 and you will be prompted to choose a topic.
  
 Choose the topic for which you want to get the reviews and you will be able to see the first 100 reviews in the text file saved in the output directory of your project named as topicname.txt for eg. for topic name Allergy & intolerance => Allergy___intolerance.txt
